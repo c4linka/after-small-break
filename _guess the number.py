@@ -1,4 +1,4 @@
-#nadom number
+#random number
 
 import random    
 theNumber = random.randint(1,10)
